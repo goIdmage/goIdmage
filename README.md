@@ -2,7 +2,7 @@
 
 `18 y.o.`
 
-[website.](https://solluxcaptor.neocities.org/ "this is my only public social media.")
+[website](https://solluxcaptor.neocities.org/ "this is my only public social media.")
 
 --- 
 
