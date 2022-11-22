@@ -7,6 +7,6 @@
   been coding for 5 years.
 ```
 ```
-- bad at socialising & initating.
+- bad at talking & initating.
   also at maintaining friendships.
 ```
