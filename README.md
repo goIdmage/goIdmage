@@ -10,3 +10,4 @@
 - bad at talking & initating.
   also at maintaining friendships.
 ```
+[visit my site.](https://solluxcaptor.neocities.org/)
