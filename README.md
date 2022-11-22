@@ -4,4 +4,4 @@
 - i'm interested in coding web designs & layouts. 
 - currently learning to script.
 - been coding for 5 years.
-- mostly unreachable, visit my website for more info.
+- visit my website for more info.
