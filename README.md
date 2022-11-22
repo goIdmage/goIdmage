@@ -5,6 +5,7 @@
 ```fix
 - coding web designs & layouts, currently learning scripting languages. 
   been coding for 5 years.
+  may not publicize github repositories yet.
 ```
 ```
 - bad at talking & initating.
