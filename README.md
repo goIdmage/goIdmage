@@ -10,5 +10,5 @@
 may not publicize github repositories yet.
 ```
 ```
-bad at talking & initating.
+bad at talking & initating
 ```
