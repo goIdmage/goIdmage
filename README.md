@@ -1,4 +1,4 @@
-![hey hey.](https://i.ibb.co/5TBCfmJ/Bit.png)
+![hey.](https://i.ibb.co/5TBCfmJ/Bit.png)
 
 `18 y.o.`
 
