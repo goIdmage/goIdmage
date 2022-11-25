@@ -7,8 +7,8 @@
 --- 
 
 ```fix
-css & html, currently learning scripting languages. may not publicize github repositories yet.
+may not publicize github repositories yet.
 ```
 ```
-bad at talking & initating, also at maintaining friendships.
+bad at talking & initating.
 ```
