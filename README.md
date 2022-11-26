@@ -4,12 +4,7 @@
 
 ```
 
-`18 y.o.`
-
-```
-
-```
-[website](https://solluxcaptor.neocities.org/ "this is my only public social media.")
+`18 y.o.`  [`website`](https://solluxcaptor.neocities.org/ "this is my only public social media.")
 
 ```
 
