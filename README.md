@@ -1,5 +1,4 @@
-###### coding circa 2018.
-#### Languages (human)
+#### Languages
 
 ##### using/usable
 ###### SVE(Native), English(Advanced), 日本語(中級)
