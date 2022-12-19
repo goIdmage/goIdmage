@@ -5,5 +5,5 @@ a dude working with computer science.
 ##### using/usable
 SVE(Native), English(Advanced), 日本語(ある程度OK)
 
-#### PGP
+#### PGP PUB Fingerprint
 `6AEF 0E7C 899A 8B32`
