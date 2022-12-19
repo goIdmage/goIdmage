@@ -1,4 +1,4 @@
-i cook-a the spaghetti-a code-a.
+i cook-a the spaghetti-a code-a. i eat-a the parantheses-a.
 
 #### Languages
 
@@ -7,3 +7,6 @@ SVE(Native), English(Advanced), 日本語(中級)
 
 #### PGP Fingerprint [Use to Contact]
 `6AEF 0E7C 899A 8B32`
+
+#### Main Interests
+##### Improving Cyber Security, The Encryption and Decryption of Data, 
