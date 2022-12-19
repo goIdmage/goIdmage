@@ -3,7 +3,7 @@
 ###### i cook-a the spaghetti-a code-a. i eat-a the parantheses-a.
 ###### visit-a my site-a for more information-a.
 
-#### Languages
+#### Languages (human)
 
 ##### using/usable
 ###### SVE(Native), English(Advanced), 日本語(中級)
