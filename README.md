@@ -8,7 +8,7 @@
 `6AEF 0E7C 899A 8B32`
 
 #### Main Interests
-###### improving cyber security, virtual cryptography, encryption & decryption and interactive pages.
+###### improving cyber security, virtual cryptography, encryption & decryption and interactive web pages.
 
 #### Current Affairs
 ###### working to get into a computer science and arithmetics program.
