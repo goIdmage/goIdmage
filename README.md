@@ -1,5 +1,3 @@
-### C:\Users\goIdmage\README.md
-
 ###### i cook-a the spaghetti-a code-a. i eat-a the parantheses-a.
 ###### visit-a my site-a for more information-a.
 
