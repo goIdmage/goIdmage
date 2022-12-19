@@ -1,4 +1,4 @@
-###### coding since circa 2018.
+###### coding circa 2018.
 #### Languages (human)
 
 ##### using/usable
