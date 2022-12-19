@@ -11,5 +11,3 @@
 
 #### Current Affairs
 ###### working to get into a computer science and arithmetics program.
-###### making .html pages on neocities.
-###### unearthing malwares.
