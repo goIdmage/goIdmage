@@ -15,4 +15,4 @@
 #### Current Affairs
 ###### working to get into a computer science and arithmetics program.
 ###### making silly .html pages on neocities.
-###### making hideous malwares.
+###### unearthing hideous malwares.
