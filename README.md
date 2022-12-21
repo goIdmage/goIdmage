@@ -11,6 +11,6 @@
 ###### improving cyber security, virtual cryptography, encryption & decryption and interactive web pages.
 
 #### Current Affairs
-###### self-taught coder.
+###### currently in self-taught hell.
 ###### working to get into a computer science & arithmetics program.
 ###### fiddling with [my own site.](https://solluxcaptor.neocities.org)
