@@ -5,7 +5,7 @@
 #### Languages
 
 ##### using/usable
-###### SVE(Native), English(Advanced), 日本語(中級)
+###### SVE(Native), English(Fluent), 日本語(中級)
 
 #### Intent
 ###### improving cyber security, virtual cryptography, encryption & decryption and interactive web pages.
