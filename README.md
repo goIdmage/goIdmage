@@ -11,4 +11,5 @@
 ###### improving cyber security, virtual cryptography, encryption & decryption and interactive web pages.
 
 #### Current Affairs
+###### self-taught dude.
 ###### working to get into a computer science and arithmetics program.
