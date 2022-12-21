@@ -13,3 +13,4 @@
 #### Current Affairs
 ###### self-taught coder.
 ###### working to get into a computer science & arithmetics program.
+###### fiddling with [my own site.](https://solluxcaptor.neocities.org)
