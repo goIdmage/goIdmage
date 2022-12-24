@@ -13,4 +13,3 @@
 #### Current Affairs
 ###### currently in self-taught coding hell.
 ###### working to get into a computer science & arithmetics program.
-###### fiddling with [my own site.](https://solluxcaptor.neocities.org)
