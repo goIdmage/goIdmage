@@ -1,6 +1,4 @@
-### keyba2e
-
-  ##### public key: ASDan_uP-sgsj3tFGS7QaKOJZGlNbTvihLgeCiLhE3ohFgo
+ ##### public key: ASDan_uP-sgsj3tFGS7QaKOJZGlNbTvihLgeCiLhE3ohFgo
 
 ```json
 {
