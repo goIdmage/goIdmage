@@ -49,13 +49,3 @@ wiith the key [ASDan_uP-sgsj3tFGS7QaKOJZGlNbTvihLgeCiLhE3ohFgo](https://keybase.
 hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2p/7j/rILI97RRku0GijiWRpTW074oS4Hgoi4RN6IRYKp3BheWxvYWTESpcCBcQgPkeqw4UYuLrB0drZXY/dKAZwvJXTlG/Fp/YTLWzxBc/EIMQaTYutYuBpxgN2VgQlNItkjgezuDOEeVcNfsbD4V4sAgHCo3NpZ8RA0/OMuH+N1rIt2DAvdElIaDp7ijjtPGX5Y5HWNoz6jf+xW5ASEBG3LrU8jy0z9JfzTCRdybET/cvAvRInmQ7cAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICFGEOy0dDoc/Di5la98LG5cpPOZjB+FQko7c6SliV8po3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
-
-and fiinally, ii am proviing owner2hiip of the giithub account by po2tiing thii2 a2 a gii2t.
-
-### my publiicly-audiitable iidentiity:
-
-https://keybase.io/etoseko
-
-### from the command liine:
-
-con2iider the [keyba2e command liine program](https://keybase.io/download).
