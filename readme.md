@@ -1,4 +1,4 @@
-u2e the followiing for keyba2e.
+keyba2e
 
 `ASDan_uP-sgsj3tFGS7QaKOJZGlNbTvihLgeCiLhE3ohFgo`
 
