@@ -1,6 +1,3 @@
-#### PGP
-`6AEF 0E7C 899A 8B32`
-
 ### keyba2e
 
   ##### ii have a public key: ASDan_uP-sgsj3tFGS7QaKOJZGlNbTvihLgeCiLhE3ohFgo
@@ -49,3 +46,6 @@ wiith the key [ASDan_uP-sgsj3tFGS7QaKOJZGlNbTvihLgeCiLhE3ohFgo](https://keybase.
 hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2p/7j/rILI97RRku0GijiWRpTW074oS4Hgoi4RN6IRYKp3BheWxvYWTESpcCBcQgPkeqw4UYuLrB0drZXY/dKAZwvJXTlG/Fp/YTLWzxBc/EIMQaTYutYuBpxgN2VgQlNItkjgezuDOEeVcNfsbD4V4sAgHCo3NpZ8RA0/OMuH+N1rIt2DAvdElIaDp7ijjtPGX5Y5HWNoz6jf+xW5ASEBG3LrU8jy0z9JfzTCRdybET/cvAvRInmQ7cAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICFGEOy0dDoc/Di5la98LG5cpPOZjB+FQko7c6SliV8po3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
+
+#### PGP
+`6AEF 0E7C 899A 8B32`
