@@ -1,4 +1,4 @@
- ##### public key: ASDan_uP-sgsj3tFGS7QaKOJZGlNbTvihLgeCiLhE3ohFgo
+###### `ASDan_uP-sgsj3tFGS7QaKOJZGlNbTvihLgeCiLhE3ohFgo`
 
 ```json
 {
@@ -36,12 +36,12 @@
 }
 ```
 
-wiith the key [ASDan_uP-sgsj3tFGS7QaKOJZGlNbTvihLgeCiLhE3ohFgo](https://keybase.io/etoseko), yiieldiing the 2iignature:
+###### key ASDan_uP-sgsj3tFGS7QaKOJZGlNbTvihLgeCiLhE3ohFgo yiieldiing the 2iignature:
 
 ```
 hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2p/7j/rILI97RRku0GijiWRpTW074oS4Hgoi4RN6IRYKp3BheWxvYWTESpcCBcQgPkeqw4UYuLrB0drZXY/dKAZwvJXTlG/Fp/YTLWzxBc/EIMQaTYutYuBpxgN2VgQlNItkjgezuDOEeVcNfsbD4V4sAgHCo3NpZ8RA0/OMuH+N1rIt2DAvdElIaDp7ijjtPGX5Y5HWNoz6jf+xW5ASEBG3LrU8jy0z9JfzTCRdybET/cvAvRInmQ7cAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICFGEOy0dDoc/Di5la98LG5cpPOZjB+FQko7c6SliV8po3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
-#### PGP
+##### PGP
 `6AEF 0E7C 899A 8B32`
