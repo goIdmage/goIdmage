@@ -10,7 +10,6 @@ keyba2e
       "host": "keybase.io",
       "kid": "0120da9ffb8ffac82c8f7b45192ed068a38964694d6d3be284b81e0a22e1137a21160a",
       "uid": "07c0d1a8530697e0c3df7891e209fd19",
-      "username": "etoseko"
     },
     "merkle_root": {
       "ctime": 1675558572,
