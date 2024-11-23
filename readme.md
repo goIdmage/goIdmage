@@ -6,7 +6,8 @@
 
 ### <p align="center"><a href="https://goidmage.github.io/">website</a></p>
 
-<p align="center">i'm goldmage and i like to eat computers on a daily basis. if you're curious about the things i like to do, refer to the assortment of things below.</p>
+<p align="center">i'm goldmage and i like to eat computers on a daily basis.</p> 
+<p align="center">if you're curious about the things i like to fiddle with, refer to the assortment of things below.</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
