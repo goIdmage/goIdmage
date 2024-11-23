@@ -37,5 +37,3 @@
 </div>
 
 ###
-
-![snake animation](https://github.com/goidmage/goidmage/blob/output/github-contribution-grid-snake2.svg)
