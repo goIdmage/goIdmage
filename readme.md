@@ -4,9 +4,9 @@
   <img height="300" src="https://i.imgur.com/acGQ6Ed.png"  />
 </div>
 
-## <p align="center"><a href="https://goidmage.github.io/">website</a></p>
+### <p align="center"><a href="https://goidmage.github.io/">website</a></p>
 
-<p align="center">20 y/o<br><br>i'm goldmage and i like to eat computers on a daily basis. if you're curious about the things i like to do, refer to the assortment of things below.</p>
+<p align="center">i'm goldmage and i like to eat computers on a daily basis. if you're curious about the things i like to do, refer to the assortment of things below.</p>
 
 <hr>
 
