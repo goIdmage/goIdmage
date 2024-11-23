@@ -6,6 +6,8 @@
 
 ###
 
+## <p align="center"><a href="https://goidmage.github.io/">website</a></p>
+
 <p align="center">20 y/o<br><br>hey. typing here without the quirk so that it's easier on the eyes.<br>i'm goldmage and i like to eat computers on a daily basis. if you're curious about the things i like to do, refer to the assortment of things below.</p>
 
 ###
