@@ -35,3 +35,11 @@
 </div>
 
 ###
+
+<hr>
+
+<div align="center">
+
+![goidmage's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goidmage&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
+
+</div>
