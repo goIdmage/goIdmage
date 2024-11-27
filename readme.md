@@ -40,6 +40,7 @@
 
 <div align="center">
 
-![goidmage's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goidmage&theme=synthwave&show_icons=true&hide_border=false&layout=compact) ![goidmage's Streak](https://github-readme-streak-stats.herokuapp.com/?user=goidmage&theme=synthwave&hide_border=false)
+ ![goidmage's Streak](https://github-readme-streak-stats.herokuapp.com/?user=goidmage&theme=synthwave&hide_border=false) <br>
+ ![goidmage's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goidmage&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
 
 </div>
